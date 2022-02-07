@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Simple App Modularization"
 include ':app'
+include ':admin_feature'

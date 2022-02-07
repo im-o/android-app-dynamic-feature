@@ -16,3 +16,11 @@ buildscript {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext.versions = [
+        'compileSdk'        : 31,
+        'minSdk'            : 23,
+        'targetSdk'         : 31,
+        'kotlin'            : '1.5.20',
+        'playcore'          : '1.10.3'
+]
