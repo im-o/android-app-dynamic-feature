@@ -6,6 +6,6 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Simple App Modularization"
+rootProject.name = "Dynamic Feature App"
 include ':app'
 include ':admin_feature'

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Simple App Modularization</string>
+    <string name="app_name">Dynamic Feature App</string>
     <string name="title_admin_feature">Module Admin User</string>
     <string name="go_to_admin_disable">Admin Feature not installed, Install Now!</string>
     <string name="go_to_admin_feature">Go to Admin Feature</string>
